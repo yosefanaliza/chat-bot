@@ -1,5 +1,3 @@
-THIS IS FORM THE NEW FEATURE BRANCH
-
 # AI Chatbot Interface
 
 A modern, responsive chatbot user interface built with HTML and CSS.
