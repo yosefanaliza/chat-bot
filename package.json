@@ -1,0 +1,10 @@
+{
+  "name": "js-promises-exercise",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "JavaScript Promises and Async HTTP Requests Exercise",
+  "main": "exercise.js",
+  "scripts": {
+    "start": "node exercise.js"
+  }
+}
